@@ -1,0 +1,100 @@
+{
+  "Hotels": [
+    {
+      "id": 1,
+      "name": "Marriot Hotel",
+      "city": "Bangalore",
+      "price": "7500",
+      "rating": 4,
+      "images": [
+                "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+                "https://images.unsplash.com/photo-1663659508428-9e1a9ce517d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGx1eHVyeSUyMGhvdGVsfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+                "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+              ]
+    },
+    {
+      "id": 2,
+      "name": "Holiday Inn",
+      "city": "Bangalore",
+      "price": "3500",
+      "rating": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1664876080601-acf03b40c5e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDN8fGx1eHVyeSUyMGhvdGVsfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elanza Hotel",
+      "city": "Bangalore",
+      "price": "4500",
+      "rating": 2,
+      "images": [
+        "https://images.unsplash.com/photo-1604397852861-2c1555f08852?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGx1eHVyeSUyMGhvdGVsfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aloft Marriot",
+      "city": "Bangalore",
+      "price": "3200",
+      "rating": 3.5,
+      "images": [
+        "https://images.unsplash.com/photo-1508044594351-60a97e8ce53a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGx1eHVyeSUyMGhvdGVsfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vividus",
+      "city": "Bangalore",
+      "price": "4200",
+      "rating": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sheraton Hotel",
+      "city": "Bangalore",
+      "price": "9200",
+      "rating": 3.5,
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Taj Vivanta",
+      "city": "Mumbai",
+      "price": "6200",
+      "rating": 3.5,
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Fairfield Hotel",
+      "city": "Delhi",
+      "price": "5200",
+      "rating": 3.5,
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bHV4dXJ5JTIwaG90ZWx8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+      ]
+    }
+  ]
+}
