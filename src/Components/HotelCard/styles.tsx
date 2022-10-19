@@ -5,7 +5,12 @@ export const CardContainer = styled(Grid)({
     minHeight: '22rem',
     width: '15rem !important',
     borderRadius: '8px',
-    boxShadow: '-2px 9px 22px rgba(0, 0, 0, 0.17)'
+    cursor: 'pointer',
+    transition: 'ease-in-out 0.2s',
+    '&:hover':{
+        boxShadow: '-2px 9px 22px rgba(0, 0, 0, 0.17)',
+        transition: 'ease-in-out 0.2s'
+    }
 })
 
 export const MainText = styled(Grid)({

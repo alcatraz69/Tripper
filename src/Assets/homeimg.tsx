@@ -1,7 +1,7 @@
 import * as React from "react";
 function Homeimg(props: React.SVGProps<SVGSVGElement>) {
   return (
-    <svg width={561} height={628} fill="none" {...props}>
+    <svg width='1em' height='1em' fill="none" {...props}>
       <path fill="url(#prefix__pattern0)" d="M0 0h561v628H0z" />
       <defs>
         <pattern

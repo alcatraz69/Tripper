@@ -4,10 +4,12 @@ import Rating from "@mui/material/Rating";
 import StarIcon from "@mui/icons-material/Star";
 import Chip from "@mui/material/Chip";
 import LunchDiningIcon from "@mui/icons-material/LunchDining";
+import { Link } from "react-router-dom";
 
 function HotelCard({ hotel }: any) {
   return (
     <CardContainer container direction="column">
+      <Link to={`/hotel-detail/${hotel?.id}`}>
       <ImgContainer item>
         <img src={hotel.images[0]} alt="hotel-image" className="hotel-img" />
       </ImgContainer>
@@ -40,6 +42,7 @@ function HotelCard({ hotel }: any) {
           />
         </Grid>
       </Grid>
+      </Link>
     </CardContainer>
   );
 }
